@@ -5,14 +5,18 @@
 @media screen and (max-width: 899px)
 {
 #header {
-  background-color: #3fafa4;
+  background-color: #137E9E;
+  padding:0;
 }
 .flyout-menu{
-  background: #007673;
+  background: #095A79;
 }
 .flyout-menu h3{
-  background-color: #3fafa4;
+  background-color: #137d9e;
   border-top: none;
   border-bottom: none;
+}
+#project-jump .drdn-trigger{
+  line-height:45px;
 }
 }
