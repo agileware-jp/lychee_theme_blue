@@ -13,7 +13,7 @@
 #header h1{
     font-size: 1.8em;
 }
-h2, .wiki h1 {
+h2 {
     font-size: 18px;
 }
 #main-menu li a:hover {background:#fff; color:#202030;}
